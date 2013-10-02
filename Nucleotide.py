@@ -1,5 +1,4 @@
 import string
-# added another comment
 
 class InvalidBaseException(Exception):
     pass
