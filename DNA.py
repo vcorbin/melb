@@ -3,6 +3,7 @@
 #Change number 3
 
 class DNASequence:
+    'Doc string here'
     def __init__(self,seq):
         self.seq = seq
     
