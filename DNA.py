@@ -1,5 +1,6 @@
 #Testing
 #Change number 2
+#Change number 3
 
 class DNASequence:
     def __init__(self,seq):
