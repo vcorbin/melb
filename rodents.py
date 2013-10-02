@@ -1,4 +1,5 @@
 class Rodent:
+    'Added a doc string to explain what rodents does'
     def __init__(self, tag_id):
         self.tag_id = tag_id
         self.weights = []
